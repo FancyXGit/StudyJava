@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1 basis/1 basis.iml" filepath="$PROJECT_DIR$/1 basis/1 basis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 code_struct/2 code_struct.iml" filepath="$PROJECT_DIR$/2 code_struct/2 code_struct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 array/3 array.iml" filepath="$PROJECT_DIR$/3 array/3 array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 function/4 function.iml" filepath="$PROJECT_DIR$/4 function/4 function.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/StudyJava.iml" filepath="$PROJECT_DIR$/.idea/StudyJava.iml" />
     </modules>
   </component>

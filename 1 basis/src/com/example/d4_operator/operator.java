@@ -8,8 +8,5 @@ public class operator {
         a++;
         System.out.println(a);
         System.out.println(b);
-        //Boolean flag1 = true;
-        //Boolean flag2 = false;
-        //System.out.println(flag2 && flag1);
     }
 }
